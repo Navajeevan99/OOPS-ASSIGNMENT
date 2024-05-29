@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\oops assignments\Money converter\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+820326308.index
+3413270776.index

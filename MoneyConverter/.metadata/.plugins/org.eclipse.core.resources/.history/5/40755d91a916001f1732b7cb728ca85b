@@ -1,0 +1,25 @@
+package Pk;
+import java.awt.*;
+class Converter extends Frame{
+	Converter()
+	{
+	Button b=new Button("converter");
+	add(b);
+	setVisible(true);
+	setSize(1980,1080)
+	setLayout(null);
+	}
+	
+	
+}
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Converter c=new Converter();
+		
+		
+
+	}
+
+}
